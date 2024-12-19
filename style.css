@@ -1,0 +1,45 @@
+.content h1{
+    color: #EEEEEE; 
+    font-weight: bolder; 
+    font-family: "Roboto", serif; 
+    font-weight: 700;
+}
+
+.content h3{
+    color: #EEEEEE; 
+    font-weight: bolder; 
+    font-family: "Roboto", serif; 
+    font-weight: 300;
+}
+
+.bg{
+    background-color: #222831;
+}
+
+li{
+    padding: 5px;
+}
+
+.proj h2,p{
+    color: #222831;
+}
+
+.proj button{
+    background-color: #00ADB5;
+    color: white;
+}
+
+.proj img{
+    border: solid 10px #222831;
+    border-bottom: 0px;
+    border-radius: 5px;
+}
+
+.contact h1,ul,hr{
+    color: #EEEEEE;
+}
+
+.contact li{
+    list-style: none;
+    padding: 0;
+}
