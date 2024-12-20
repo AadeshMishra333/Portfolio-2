@@ -43,3 +43,10 @@ li{
     list-style: none;
     padding: 0;
 }
+
+@media (max-width: 768px){
+    .content{
+        border-top: solid 10px #222831;
+        border-right: 0px;
+    }
+}
